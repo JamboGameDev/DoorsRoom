@@ -13,6 +13,11 @@
 # Prerequisites
 *.d
 
+# Unreal packaged files
+Content/Paks/
+Windows/DoorsRoom/Content/Paks/
+*.xcodeproj
+
 # Compiled Object files
 *.slo
 *.lo
